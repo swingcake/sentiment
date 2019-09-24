@@ -10,6 +10,7 @@ TextBlob - <https://textblob.readthedocs.io/en/dev/>
    * <https://github.com/jg-fisher/redditSentiment>
    * <https://www.kaggle.com/debasmita23/sentiment-analysis-using-textblob-reddit-comments>
    * <https://www.reddit.com/r/dataisbeautiful/comments/a4ac4m/sentiment_analysis_of_various_subreddits_oc/>
+   * <https://github.com/keon/awesome-nlp>
 
 3. Papers
    * <https://cs224d.stanford.edu/reports/TingJason.pdf>
