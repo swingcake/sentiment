@@ -3,6 +3,8 @@
 VADER Sentiment Analysis - <https://github.com/cjhutto/vaderSentiment>  
 TextBlob - <https://textblob.readthedocs.io/en/dev/>
 
+[Rasa](https://github.com/RasaHQ/rasa), [Snips](https://github.com/snipsco/snips-nlu) - NLU
+
 1. Overview - <https://monkeylearn.com/sentiment-analysis/>
 
 2. Example and usecases
